@@ -5,10 +5,10 @@ Nephio project's test infrastructure configuration &amp; tools will be maintaine
 repository.
 
 ## Modified Upstream Project
-[Here:](https://github.com/nephio-project/test-infra.git)
+[nephio-project/tests-infra.git](https://github.com/nephio-project/test-infra.git)
 
 ## Same project running on AWS EC2
-[Here:](https://github.com/vitu1234/nephio-test-infra-aws.git)
+[nephio-test-infra-aws](https://github.com/SSU-DCN/nephio-test-infra-aws.git)
 
 ## Run the following Galaxy commands
 ansible-galaxy collection install ansible.posix
